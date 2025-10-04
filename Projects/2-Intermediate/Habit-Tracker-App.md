@@ -1,0 +1,39 @@
+# Application Name
+Habit Tracker
+
+**Tier:** 2-Intermediate
+
+Add a clear description of the application and its main features.  
+Answer the following questions:
+
+-   "What is the purpose of this application?"  
+    The Habit Tracker app helps users build and maintain positive habits by tracking daily progress, visualizing streaks, and sending reminders to encourage consistency.  
+-   "Are there any resources needed in order to complete the project?"  
+    Yes. A database or local storage for saving habits, and a charting library (e.g., Chart.js, Recharts) for visualizing streaks. Notifications or cron jobs can be used for reminders.
+
+## User Stories
+
+-   [ ] User can create, edit, and delete habits
+-   [ ] User can mark a habit as completed for the day
+-   [ ] User can view a dashboard of their daily/weekly progress
+-   [ ] User can see streaks for each habit
+-   [ ] User can set daily reminders/notifications for each habit
+
+## Bonus features
+
+-   [ ] User can categorize habits (e.g., health, learning, productivity)
+-   [ ] User can view charts of success rates and streaks
+-   [ ] User can earn badges/achievements for milestones
+-   [ ] User can export their habit data as CSV/JSON
+-   [ ] User can share progress with friends for accountability
+
+## Useful links and resources
+
+-   [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits) – foundational guide on building habits  
+-   [Chart.js](https://www.chartjs.org/) – data visualization library  
+-   [Local Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) – browser storage basics  
+
+## Example projects
+
+-   [Loop Habit Tracker (Android app)](https://github.com/iSoron/uhabits)  
+-   [Habitica](https://habitica.com) – gamified habit tracker
