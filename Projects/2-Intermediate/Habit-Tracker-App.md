@@ -3,13 +3,7 @@ Habit Tracker
 
 **Tier:** 2-Intermediate
 
-Add a clear description of the application and its main features.  
-Answer the following questions:
-
--   "What is the purpose of this application?"  
-    The Habit Tracker app helps users build and maintain positive habits by tracking daily progress, visualizing streaks, and sending reminders to encourage consistency.  
--   "Are there any resources needed in order to complete the project?"  
-    Yes. A database or local storage for saving habits, and a charting library (e.g., Chart.js, Recharts) for visualizing streaks. Notifications or cron jobs can be used for reminders.
+Habit Tracker is an app designed to help users build and maintain positive habits by tracking daily progress, visualizing streaks, and sending reminders. Users can create, edit, and manage habits, mark them as completed, and view their progress over time. To implement this project, a database or local storage is needed for storing habit data, along with a charting library (e.g., Chart.js or Recharts) for visualizing streaks. Notifications or cron jobs can be added to provide daily reminders.
 
 ## User Stories
 
