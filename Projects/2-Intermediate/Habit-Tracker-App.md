@@ -1,5 +1,4 @@
-# Application Name
-Habit Tracker
+# Habit Tracker
 
 **Tier:** 2-Intermediate
 
